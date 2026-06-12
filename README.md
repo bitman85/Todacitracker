@@ -22,11 +22,11 @@ Dejar de fumar con el tratamiento de Todacitan es un gran paso, pero llevar el c
 *(Aquí puedes ver cómo luce la interfaz de la aplicación)*
 
 <div align="center">
-  <img src="assets/1.jpg" width="30%" alt="Vista Hoy">
+  <img src="assets/2.jpg" width="30%" alt="Vista Hoy">
   &nbsp;
-  <img src="assets/2.jpg" width="30%" alt="Vista Blíster">
+  <img src="assets/3.jpg" width="30%" alt="Vista Blíster">
   &nbsp;
-  <img src="assets/3.jpg" width="30%" alt="Vista Logros">
+  <img src="assets/4.jpg" width="30%" alt="Vista Logros">
 </div>
 
 ## ✨ Características Principales
