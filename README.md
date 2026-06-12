@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="150" alt="Todacitracker Logo">
+  <img src="assets/ICON 512.png" width="150" alt="Todacitracker Logo">
   <h1>Todacitracker</h1>
   <p><strong>El asistente definitivo para tu tratamiento de 25 días.</strong></p>
   
